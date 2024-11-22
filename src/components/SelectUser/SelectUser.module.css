@@ -1,0 +1,20 @@
+.select {
+	background-color: #18181818;
+	margin-bottom: 40px;
+	font-size: 18px;
+	font-weight: 600;
+	border: none;
+	border-bottom: 1px solid #323232;
+	outline: none;
+	cursor: pointer;
+}
+
+.select-option {
+	background: #181818;
+	font-size: 18px;
+	font-weight: 600;
+	border: none;
+	
+}
+
+
